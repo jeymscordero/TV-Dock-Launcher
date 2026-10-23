@@ -6,6 +6,7 @@ Big focus-friendly tiles, a live clock header, a built-in Inputs switcher, and a
 > Design inspired by the [CleanYourTV](https://github.com/Gathin23/cleanyourtv) home screen (aurora look). TV Dock is an independent project and contains none of its code.
 
 <!-- Add screenshots here, e.g.
+<img width="1280" height="720" alt="Snapshot" src="https://github.com/user-attachments/assets/b150b1b8-06dd-42a8-a2da-7e56ae3e416e" />
 <p align="center"><img src="docs/home.png" width="800"></p>
 -->
 
